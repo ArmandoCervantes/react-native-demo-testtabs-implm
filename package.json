@@ -1,7 +1,7 @@
 {
-  "name": "librarie-npm-pruebados",
+  "name": "@ArmandoCervantes/react-native-demo-testtabs-implm",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
